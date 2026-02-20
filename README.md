@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=50&lines=Founder+%40+Memo+Solutions;Full-stack+engineer+%7C+AI+builder;Shipping+products+from+Koh+Phangan+%F0%9F%87%B9%F0%9F%87%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=440&height=30&lines=Founder+%40+Memo+Solutions;Full-stack+engineer+%7C+AI+builder;Based+in+Koh+Phangan+%F0%9F%87%B9%F0%9F%87%AD)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,13 +12,10 @@
 
 ```yaml
 name: Guillaume Flambard
-location: Koh Phangan, Thailand (originally Paris)
+location: Koh Phangan, Thailand (from Paris)
 company: Memo Solutions (founder)
 focus: Full-stack development, AI automation, travel tech
-currently_building:
-  - Echo Travel — speedboat booking platform for the Gulf of Thailand
-  - liquid-ui — Apple Liquid Glass component library for React
-  - nope — AI that calls companies so you don't have to
+fun_fact: "Java is to JavaScript as ham is to hamster"
 ```
 
 <br/>
@@ -30,59 +27,76 @@ currently_building:
 <tr>
 <td width="50%">
 
+### [nope](https://github.com/guillaume-flambard/nope)
+AI agent that calls companies so you don't have to. Twilio voice pipeline, IVR navigation, strategy engine with negotiation tactics. Cancel, negotiate, complain — hands-free.
+
+`TypeScript` `Twilio` `AI` `Voice` `Open Source`
+
+</td>
+<td width="50%">
+
+### [liquid-ui](https://github.com/guillaume-flambard/liquid-ui)
+The first Apple Liquid Glass component library for React. Physics-based glass rendering engine, design tokens, full component suite. Turborepo monorepo, <50kb.
+
+`React` `TypeScript` `Design System` `Open Source`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### [Echo Travel](https://echotravel.app)
-Speedboat booking platform connecting Koh Samui, Koh Phangan & Koh Tao. Real-time availability, multi-channel distribution, payment processing.
+Speedboat booking platform for the Gulf of Thailand. Real-time availability, multi-channel distribution (direct, agents, OTAs), payment processing. Thousands of passengers.
 
 `Laravel` `React` `Inertia.js` `PostgreSQL` `Redis`
 
 </td>
 <td width="50%">
 
-### [nope](https://github.com/guillaume-flambard/nope)
-Open-source AI that calls companies so you don't have to. Cancel subscriptions, negotiate bills, file complaints — hands free.
-
-`TypeScript` `AI` `Open Source`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [liquid-ui](https://github.com/guillaume-flambard/liquid-ui)
-The first Apple Liquid Glass library for React. Authentic glassmorphism effects with environmental blending.
-
-`React` `TypeScript` `CSS` `Design System`
-
-</td>
-<td width="50%">
-
-### [kohphangan-platform](https://github.com/guillaume-flambard/kohphangan-platform)
-Complete party booking & ticket management system for Koh Phangan events. Waterfall Party tickets with real-time booking.
-
-`TypeScript` `Payments` `Events`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [moon-family](https://github.com/guillaume-flambard/moon-family)
-Three independent websites for Mama Homemade, Moon Spoon & Moonland Bar in Haad Rin, Koh Phangan.
-
-`Svelte` `Multi-site` `Restaurant`
-
-</td>
-<td width="50%">
-
 ### [straysafe](https://github.com/guillaume-flambard/straysafe-v2)
-Stray animal tracking and welfare platform. Mapping, reporting and community coordination for island animal care.
+Mobile app for tracking and protecting stray dogs. GPS tracking, medical records, real-time messaging, role-based access for vets, volunteers and admins.
 
-`TypeScript` `Maps` `Social Impact`
+`React Native` `Expo` `Supabase` `Social Impact`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [accordo](https://github.com/guillaume-flambard/accordo)
+AI contract negotiation assistant. Upload DOCX/PDF contracts, define objectives, get risk-scored clause alternatives (1-10), export final negotiated PDF.
+
+`Next.js` `OpenAI` `Legal Tech` `AI`
+
+</td>
+<td width="50%">
+
+### [island-code](https://github.com/guillaume-flambard/island-code)
+Free coding workshops teaching web dev and AI tools to Thai and Myanmar locals in Koh Phangan. 5 structured workshops, starter templates, instructor guides.
+
+`Community` `Education` `Social Impact`
 
 </td>
 </tr>
 </table>
 </div>
+
+<details>
+<summary><strong>More projects</strong></summary>
+
+<br/>
+
+| Project | Description |
+|---------|-------------|
+| [agentfabric](https://github.com/guillaume-flambard/agentfabric) | Platform for creating and orchestrating AI agents |
+| [docusync](https://github.com/guillaume-flambard/docusync) | Auto-sync Google Docs/Sheets to Git with format conversion |
+| [cobol-bridge](https://github.com/guillaume-flambard/cobol-bridge) | Bridge between COBOL legacy systems and modern JS APIs |
+| [moon-family](https://github.com/guillaume-flambard/moon-family) | Three restaurant/bar websites — Nx monorepo, SvelteKit, 6 languages |
+| [kohphangan-platform](https://github.com/guillaume-flambard/kohphangan-platform) | Party booking & ticket system for Koh Phangan events |
+| [siame-vat-watch](https://github.com/guillaume-flambard/siame-vat-watch) | Thailand VAT compliance platform for non-resident SaaS companies |
+| [carbon-tracker-react](https://github.com/guillaume-flambard/carbon-tracker-react) | Chrome extension tracking carbon footprint of web browsing |
+
+</details>
 
 <br/>
 
