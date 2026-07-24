@@ -14,7 +14,7 @@
 name: Guillaume Flambard
 location: Koh Phangan, Thailand (from Paris)
 company: Memo Solutions (founder)
-focus: Full-stack development, AI automation, travel tech
+focus: Full-stack development, workflow automation tooling, AI
 fun_fact: "Java is to JavaScript as ham is to hamster"
 ```
 
@@ -24,6 +24,24 @@ fun_fact: "Java is to JavaScript as ham is to hamster"
 
 <div align="center">
 <table>
+<tr>
+<td width="50%">
+
+### [n8n-community-toolkit](https://github.com/guillaume-flambard/n8n-community-toolkit)
+Six read-only tools for the n8n community backlog. Leverage-based issue triage measured against n8n's own labelling, a PR preflight that reads their contribution rules at run time, a contribution gate, a reproduction sandbox.
+
+`TypeScript` `Tooling` `Open Source`
+
+</td>
+<td width="50%">
+
+### [n8n-node-vetter](https://github.com/guillaume-flambard/n8n-node-vetter)
+Vet an n8n community node against the verified-node standards and get a severity-ranked review. Zero runtime deps, ships a CI Action and its own AI review layer.
+
+`TypeScript` `Static Analysis` `CI`
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -53,24 +71,6 @@ Speedboat booking platform for the Gulf of Thailand. Real-time availability, mul
 </td>
 <td width="50%">
 
-### [straysafe](https://github.com/guillaume-flambard/straysafe-v2)
-Mobile app for tracking and protecting stray dogs. GPS tracking, medical records, real-time messaging, role-based access for vets, volunteers and admins.
-
-`React Native` `Expo` `Supabase` `Social Impact`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [accordo](https://github.com/guillaume-flambard/accordo)
-AI contract negotiation assistant. Upload DOCX/PDF contracts, define objectives, get risk-scored clause alternatives (1-10), export final negotiated PDF.
-
-`Next.js` `OpenAI` `Legal Tech` `AI`
-
-</td>
-<td width="50%">
-
 ### [island-code](https://github.com/guillaume-flambard/island-code)
 Free coding workshops teaching web dev and AI tools to Thai and Myanmar locals in Koh Phangan. 5 structured workshops, starter templates, instructor guides.
 
@@ -88,6 +88,11 @@ Free coding workshops teaching web dev and AI tools to Thai and Myanmar locals i
 
 | Project | Description |
 |---------|-------------|
+| [n8n-community-leverage](https://github.com/guillaume-flambard/n8n-community-leverage) | Ranks the open n8n backlog by leverage, clusters it, turns the top into contributor briefs |
+| [n8n-nodes-opn](https://github.com/guillaume-flambard/n8n-nodes-opn) | n8n community node for Opn Payments, published on npm with zero runtime dependencies |
+| [weave](https://github.com/guillaume-flambard/weave) | Shared team memory that makes reusable skills emerge from activity. Rust, pgvector, MCP |
+| [accordo](https://github.com/guillaume-flambard/accordo) | AI contract negotiation assistant with risk-scored clause alternatives |
+| [straysafe](https://github.com/guillaume-flambard/straysafe-v2) | Mobile app for tracking and protecting stray dogs, with vet and volunteer roles |
 | [agentfabric](https://github.com/guillaume-flambard/agentfabric) | Platform for creating and orchestrating AI agents |
 | [docusync](https://github.com/guillaume-flambard/docusync) | Auto-sync Google Docs/Sheets to Git with format conversion |
 | [cobol-bridge](https://github.com/guillaume-flambard/cobol-bridge) | Bridge between COBOL legacy systems and modern JS APIs |
