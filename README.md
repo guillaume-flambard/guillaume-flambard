@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Guillaume%20Flambard&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20things%20from%20a%20tropical%20island&descSize=16&descColor=8b949e&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Guillaume%20Flambard&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=TypeScript%20%C2%B7%20workflow%20automation%20%C2%B7%20AI%20%C2%B7%20remote&descSize=16&descColor=8b949e&descAlignY=55" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=440&height=45&lines=AI+%40+Enthusiast+Builder;Full-stack+%7C+AI+builder;Koh+Phangan+%F0%9F%87%B9%F0%9F%87%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=440&height=45&lines=Full-stack+TypeScript+Engineer;Workflow+automation+%7C+n8n+%7C+AI;Fully+remote+%E2%80%94+Europe+friendly)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,9 +12,10 @@
 
 ```yaml
 name: Guillaume Flambard
-location: Koh Phangan, Thailand (from Paris)
+location: Fully remote — French, Europe timezones
 company: Memo Solutions (founder)
-focus: Full-stack development, workflow automation tooling, AI
+focus: Full-stack TypeScript, workflow automation (n8n), AI tooling
+open_to: Remote roles, EU-based teams
 fun_fact: "Java is to JavaScript as ham is to hamster"
 ```
 
