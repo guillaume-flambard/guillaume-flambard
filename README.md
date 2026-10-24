@@ -1,28 +1,32 @@
 # Guillaume Flambard
 
-**Full-stack TypeScript engineer · Product engineering, automation & reliable AI systems**
+**Full-stack TypeScript engineer · Product engineering · Reliable AI systems**
 
-I build products end to end — from the user experience to APIs, databases, integrations and the tests that prove a feature works. My core stack is **TypeScript, React / Next.js, Node.js and PostgreSQL**. I also work with **Python, Swift and Rust** where they fit the problem.
+I build software from the interface through APIs, databases, integrations and deployment. My strongest stack is **TypeScript, React / Next.js, Node.js and PostgreSQL**; I also build with Swift, Rust and Python.
 
-Based in Europe · Open to remote product engineering and technical partnerships · [Contact on LinkedIn](https://www.linkedin.com/in/guillaume-flambard)
+**Remote · Europe-friendly** · [Contact / LinkedIn](https://www.linkedin.com/in/guillaume-flambard) · [Memo Labs open source](https://github.com/memolabs-dev)
 
-## Selected work
+## What I am building
 
-| Project | What it demonstrates |
+| Project | A useful place to start | Current maturity |
+| --- | --- | --- |
+| **[UNI](https://github.com/memolabs-dev/uni-protocol)** | An open-source Rust CLI that checks claims against declared verifiers, records evidence and reports assurance limitations. [Watch the real-output CLI walkthrough (42s)](https://github.com/memolabs-dev/uni-protocol/releases/download/v0.9.4/uni-cli-real-execution-20261024.mp4). | **Developer preview**, v0.9.4 released; the example report is A2 with self-declared identity, **not** independent attestation. |
+| **[Drop](https://github.com/memolabs-dev/drop)** | Agents ask a bounded question instead of taking broad access; owners approve what can leave their machine. | **Early prototype**, no stable public download or independent security audit yet. |
+| **[Kollio](https://github.com/memolabs-dev/kollio-mac)** | A native macOS canvas where ideas become a living document and AI proposes reviewable changes. | **macOS prototype**, public end-user demo and independent clean-machine acceptance still in progress. |
+
+## Full-stack product evidence
+
+These examples are **case studies of implementation**, not blanket claims of production adoption.
+
+| Product | See the actual experience |
 | --- | --- |
-| **[knockport](https://github.com/guillaume-flambard/knockport)** | Full-stack hiring product: interactive terminal, recruitment studio, server-side journey engine, accessible no-JavaScript flow and a [walkthrough video](https://github.com/guillaume-flambard/knockport/releases/download/v0.1.0/demo-final.mp4). |
-| **[sku-regulator](https://github.com/guillaume-flambard/sku-regulator)** | Data-intensive product: EU data ingestion, FastAPI, PostgreSQL / pgvector, grounded retrieval, Next.js UI and human review. [70-second demo](https://github.com/guillaume-flambard/sku-regulator/releases/download/demo-video-v1/sku-regulator-demo.mp4). |
-| **[UNI](https://github.com/memolabs-dev/uni-protocol)** | Open-source Rust CLI for verifying agent outcomes against independently collected evidence and explicit policies. [Quickstart](https://github.com/memolabs-dev/uni-protocol#quickstart). |
-| **[IntentLane](https://github.com/memolabs-dev/intentlane)** | Developer tooling for auditing and generating iOS / macOS App Intents integrations, with build proof kept separate from live Siri behavior. |
-| **[Drop](https://github.com/memolabs-dev/drop)** | Local-first agent capability sharing with explicit human consent and bounded access. |
-| **[Kollio](https://github.com/memolabs-dev/kollio-mac)** | A native macOS SwiftUI experiment in living visual documents and reviewable AI patches. |
+| **[knockport](https://github.com/guillaume-flambard/knockport)** | A hiring journey explored through a terminal, with a recruiter studio and accessible non-JS route. [Watch 81-second 1080p demo](https://github.com/guillaume-flambard/knockport/releases/download/v0.1.0/demo-final.mp4). |
+| **[sku-regulator](https://github.com/guillaume-flambard/sku-regulator)** | EU register ingestion, FastAPI, PostgreSQL + pgvector, grounded search and Next.js dashboard with human review. [Watch 70-second 1080p demo](https://github.com/guillaume-flambard/sku-regulator/releases/download/demo-video-v1/sku-regulator-demo.mp4). |
 
-The last four are developer tools, prototypes or evolving open-source projects; consult each repository for its current validation status and limitations. **A green test suite is not a production guarantee.**
+I also maintain **[IntentLane](https://github.com/memolabs-dev/intentlane)**, developer tooling for auditing iOS/macOS App Intents and generating Swift integrations. It intentionally separates compiled integration evidence from behavior observed in Siri.
 
-## How I build
+## Engineering principles
 
-- **Product first:** clear user journeys, readable interfaces, real end-to-end workflows.
-- **Evidence over claims:** reproducible steps, automated tests, observable failures, explicit limitations.
-- **Pragmatic architecture:** maintainable TypeScript systems, reliable integrations and infrastructure that serves the product.
+A strong demo is not a production certificate. I prefer **reproducible commands, real end-to-end user journeys, independently checkable claims, honest limitations and interfaces people enjoy using**. GitHub contains both mature work and experiments; each repository states what has and has not been validated.
 
-More developer tools and experiments live at [Memo Labs](https://github.com/memolabs-dev). For a collaboration, send me the product, stack and bottleneck you want to solve via [LinkedIn](https://www.linkedin.com/in/guillaume-flambard).
+For a remote engineering role, open-source collaboration or a scoped product engagement, [contact me on LinkedIn](https://www.linkedin.com/in/guillaume-flambard) with the product, stack and problem to solve.
