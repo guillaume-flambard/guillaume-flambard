@@ -1,28 +1,28 @@
 # Guillaume Flambard
 
-Full-stack product engineer at Memo Labs. I build products, developer tools and reliability layers for AI-assisted software.
+**Full-stack TypeScript engineer · Product engineering, automation & reliable AI systems**
 
-Most of my work is in TypeScript, React, Node.js and PostgreSQL. Recent projects also use Swift, Rust and Python. I care about a useful interface, a clear system boundary, and evidence for what the software actually did.
+I build products end to end — from the user experience to APIs, databases, integrations and the tests that prove a feature works. My core stack is **TypeScript, React / Next.js, Node.js and PostgreSQL**. I also work with **Python, Swift and Rust** where they fit the problem.
+
+Based in Europe · Open to remote product engineering and technical partnerships · [Contact on LinkedIn](https://www.linkedin.com/in/guillaume-flambard)
 
 ## Selected work
 
-| Project | What is there today |
+| Project | What it demonstrates |
 | --- | --- |
-| [IntentLane](https://github.com/guillaume-flambard/intentlane) | A deterministic compiler and audit tool for iOS and macOS App Intents. It generates Swift, checks integration evidence, and keeps build proof separate from live Siri behaviour. |
-| [UNI](https://github.com/guillaume-flambard/uni-protocol) | A Rust protocol and CLI that turns intent into claims, evidence, policy and a decision. No model runs in the trust path. |
-| [knockport](https://github.com/guillaume-flambard/knockport) | A full-stack hiring product with a small terminal client, a server-side journey engine, a recruiter studio and a no-JavaScript path. |
-| [sku-regulator](https://github.com/guillaume-flambard/sku-regulator) | An end-to-end compliance build: EU data ingestion, FastAPI, PostgreSQL with pgvector, grounded retrieval, a Next.js interface and human review. |
+| **[knockport](https://github.com/guillaume-flambard/knockport)** | Full-stack hiring product: interactive terminal, recruitment studio, server-side journey engine, accessible no-JavaScript flow and a [walkthrough video](https://github.com/guillaume-flambard/knockport/releases/download/v0.1.0/demo-final.mp4). |
+| **[sku-regulator](https://github.com/guillaume-flambard/sku-regulator)** | Data-intensive product: EU data ingestion, FastAPI, PostgreSQL / pgvector, grounded retrieval, Next.js UI and human review. [70-second demo](https://github.com/guillaume-flambard/sku-regulator/releases/download/demo-video-v1/sku-regulator-demo.mp4). |
+| **[UNI](https://github.com/memolabs-dev/uni-protocol)** | Open-source Rust CLI for verifying agent outcomes against independently collected evidence and explicit policies. [Quickstart](https://github.com/memolabs-dev/uni-protocol#quickstart). |
+| **[IntentLane](https://github.com/memolabs-dev/intentlane)** | Developer tooling for auditing and generating iOS / macOS App Intents integrations, with build proof kept separate from live Siri behavior. |
+| **[Drop](https://github.com/memolabs-dev/drop)** | Local-first agent capability sharing with explicit human consent and bounded access. |
+| **[Kollio](https://github.com/memolabs-dev/kollio-mac)** | A native macOS SwiftUI experiment in living visual documents and reviewable AI patches. |
 
-## How I work
+The last four are developer tools, prototypes or evolving open-source projects; consult each repository for its current validation status and limitations. **A green test suite is not a production guarantee.**
 
-Each repository should tell you three things: what runs today, how to verify it, and what is not proven yet.
+## How I build
 
-A polished demo is not production adoption. A green test suite is not user evidence. When a project is research or a prototype, I say so. My strongest ground is full-stack product engineering. Swift and Rust are newer parts of the work, so those repositories carry their own limits and evidence.
+- **Product first:** clear user journeys, readable interfaces, real end-to-end workflows.
+- **Evidence over claims:** reproducible steps, automated tests, observable failures, explicit limitations.
+- **Pragmatic architecture:** maintainable TypeScript systems, reliable integrations and infrastructure that serves the product.
 
-## Collaboration
-
-I take on bounded product engineering work: shipping a vertical slice, reviewing an agent workflow, or adding evidence and safety boundaries to an existing system. I work in the product and in the code. I do not sell generic coaching.
-
-For open-source contributions, start with the contribution guide for [IntentLane](https://github.com/guillaume-flambard/intentlane/blob/main/CONTRIBUTING.md) or [UNI](https://github.com/guillaume-flambard/uni-protocol/blob/main/CONTRIBUTING.md). Open an issue before a large change so we can agree on the boundary first.
-
-For a product engagement, [contact me on LinkedIn](https://www.linkedin.com/in/guillaume-flambard) with the product, the current stack, and the decision or bottleneck you need to resolve.
+More developer tools and experiments live at [Memo Labs](https://github.com/memolabs-dev). For a collaboration, send me the product, stack and bottleneck you want to solve via [LinkedIn](https://www.linkedin.com/in/guillaume-flambard).
