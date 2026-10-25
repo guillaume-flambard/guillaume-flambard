@@ -6,6 +6,17 @@ I build software from the interface through APIs, databases, integrations and de
 
 **Remote · Europe-friendly** · [Contact / LinkedIn](https://www.linkedin.com/in/guillaume-flambard) · [Memo Labs open source](https://github.com/memolabs-dev)
 
+## See the actual software
+
+Three short recorded demonstrations. The screenshots below are frames from the linked published videos, not AI-generated product mockups.
+
+| A hiring workflow | Source-grounded data exploration | Deterministic assurance |
+| :---: | :---: | :---: |
+| [![knockport recruiter studio captured from published real app video](assets/portfolio/knockport-studio.jpg)](https://github.com/guillaume-flambard/knockport/releases/download/v0.1.0/demo-final.mp4) | [![sku-regulator search and cited health claim results from its published video](assets/portfolio/sku-regulator-retrieval.jpg)](https://github.com/guillaume-flambard/sku-regulator/releases/download/demo-video-v1/sku-regulator-demo.mp4) | [![UNI CLI verification result with self-declared assurance clearly visible](assets/portfolio/uni-v094-verification.png)](https://github.com/memolabs-dev/uni-protocol/releases/download/v0.9.4/uni-cli-real-execution-20261024.mp4) |
+| **[knockport](https://github.com/guillaume-flambard/knockport)** · 81s | **[sku-regulator](https://github.com/guillaume-flambard/sku-regulator)** · 70s | **[UNI](https://github.com/memolabs-dev/uni-protocol)** · 42s |
+
+The UNI clip is a **captioned reconstruction of real CLI output**, not an unedited live capture. The other two are recordings of their application experiences. These show implemented flows, **not independent production acceptance**.
+
 ## What I am building
 
 | Project | A useful place to start | Current maturity |
