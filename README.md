@@ -33,8 +33,11 @@ These examples are **case studies of implementation**, not blanket claims of pro
 | --- | --- |
 | **[knockport](https://github.com/guillaume-flambard/knockport)** | A hiring journey explored through a terminal, with a recruiter studio and accessible non-JS route. [Watch 81-second 1080p demo](https://github.com/guillaume-flambard/knockport/releases/download/v0.1.0/demo-final.mp4). |
 | **[sku-regulator](https://github.com/guillaume-flambard/sku-regulator)** | EU register ingestion, FastAPI, PostgreSQL + pgvector, grounded search and Next.js dashboard with human review. [Watch 70-second 1080p demo](https://github.com/guillaume-flambard/sku-regulator/releases/download/demo-video-v1/sku-regulator-demo.mp4). |
+| **[Algo Observatory](https://github.com/guillaume-flambard/algo-observatory)** | Change the weights of a recommendation rule and watch 24 public Tournesol recommendations change rank. Each move comes with its reason and every number with its source. [Open the live lab](https://guillaume-flambard.github.io/algo-observatory/#/lab). |
 
 Another released developer tool is **[FoldReady](https://github.com/guillaume-flambard/foldready)**, a Swift CLI and Next.js interface for assessing and adapting iOS layouts to foldable screens ([v0.5.0 release](https://github.com/guillaume-flambard/foldready/releases/tag/v0.5.0)). **[IntentLane](https://github.com/memolabs-dev/intentlane)** remains an evolving App Intents research and tooling project; real Siri behavior is not a validated promise.
+
+**[spec-guard](https://github.com/guillaume-flambard/spec-guard)** reports which OpenSpec scenarios are covered by a Vitest or Jest test, without running the tests.
 
 ## Engineering principles
 
