@@ -6,6 +6,8 @@ I build software from the interface through APIs, databases, integrations and de
 
 **Remote · Europe-friendly** · [Contact / LinkedIn](https://www.linkedin.com/in/guillaume-flambard) · [Memo Labs open source](https://github.com/memolabs-dev)
 
+**Where projects live:** This account is my individual engineering profile and upstream open-source contribution identity. Shared Memo Labs products are developed once, in the [Memo Labs organization](https://github.com/memolabs-dev) — they are not mirrored here. My [portfolio](https://memolabs.dev/) brings both accounts and external pull requests together. See the [repository ownership policy](https://github.com/memolabs-dev/.github/blob/main/docs/repository-ownership-policy.md).
+
 ## See the actual software
 
 Three short recorded demonstrations. The screenshots below are frames from the linked published videos, not AI-generated product mockups.
